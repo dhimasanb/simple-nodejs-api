@@ -1,0 +1,24 @@
+{
+  "name": "goangkot-api",
+  "version": "1.0.0",
+  "description": "Go Angkot API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhimasanb/goangkot-api.git"
+  },
+  "keywords": [
+    "Go",
+    "Angkot",
+    "API"
+  ],
+  "author": "Dhimas Akbar Noor Baihaque (dhimasakbarnoorbaihaque@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhimasanb/goangkot-api/issues"
+  },
+  "homepage": "https://github.com/dhimasanb/goangkot-api#readme"
+}
