@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/dhimasanb/goangkot-api/issues"
   },
-  "homepage": "https://github.com/dhimasanb/goangkot-api#readme"
+  "homepage": "https://github.com/dhimasanb/goangkot-api#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28"
+  }
 }
